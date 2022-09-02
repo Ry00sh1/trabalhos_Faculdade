@@ -1,0 +1,1 @@
+1)    Crie um programa que receba dois números, base e expoente. Depois apresente a potência usando o cabeçalho math.h e também usando um laço de repetição para calcular a potência multiplicando o número por ele mesmo n vezes (por exemplo, a elevado a n, considerando a=2 e n=3; seria a * a * a ou 2 * 2 * 2 = 8)
